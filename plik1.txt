@@ -1,1 +1,2 @@
 To jest początkowa zawartosc pliku
+To dodaliśmy w kolejnym commicie
